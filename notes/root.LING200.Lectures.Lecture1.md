@@ -2,17 +2,16 @@
 id: 2fga37agb41vtctgplpvhui
 title: Lecture1
 desc: ''
-updated: 1736283710377
+updated: 1736287132515
 created: 1736202418655
 ---
-# Topic
-
+# Topic: Standard First Day Stuff
 
 ## Todo:
 - [x] Intro Survey - DUE Friday Jan 10
 - [x] Introduction Post - DUE Friday, Jan 10
 - [x] Read Syllabus
-- [ ] Some readings? need to check canvas
+- [ ] Read Files 1.0 - 1.3 - DUE Wednesday, Jan 8 BEFORE CLASS
 
 ## Notes
 ### Introductions
@@ -36,4 +35,6 @@ created: 1736202418655
     - No late quizzes, 24 hours for HW with penalty (only up to 80%)
 
 ### Questions
+- Exams/Quizzes are multiple choice
+
 
