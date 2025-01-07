@@ -2,14 +2,14 @@
 id: 6kb570v0zs09sk15bc9runa
 title: Lecture1
 desc: ''
-updated: 1736198948498
+updated: 1736283106651
 created: 1736194369813
 ---
 # Topic: Intro, Stacks & Queues
 
 ## Todo:
-- [ ] Read Syllabus
-- [ ] Survey (ON CANVAS) - Due Thursday 1/09
+- [x] Read Syllabus
+- [x] Survey (ON CANVAS) - Due Thursday 1/09
 - [ ] Exercise 0 - Due Monday, 1/13
 
 ## Course Info:

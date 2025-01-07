@@ -2,13 +2,14 @@
 id: p0d53h4j93yzkznvomhptog
 title: Lecture1
 desc: ''
-updated: 1736201980550
+updated: 1736283425309
 created: 1736199064618
 ---
 # Topic: Intro and Counting
 
 ## Todo:
-- [ ] Concept Check 1 - Due Friday 1/10
+- [x] Concept Check 1 - Due Friday 1/10
+- [x] Read Syllabus
 
 ## Notes
 ### Intro/Syllabus

@@ -2,16 +2,17 @@
 id: 2fga37agb41vtctgplpvhui
 title: Lecture1
 desc: ''
-updated: 1736204404626
+updated: 1736283710377
 created: 1736202418655
 ---
 # Topic
 
 
 ## Todo:
-- [ ] Intro Survey - DUE Friday Jan 10
-- [ ] Introduction Post - DUE Friday, Jan 10
-- [ ] Read Syllabus
+- [x] Intro Survey - DUE Friday Jan 10
+- [x] Introduction Post - DUE Friday, Jan 10
+- [x] Read Syllabus
+- [ ] Some readings? need to check canvas
 
 ## Notes
 ### Introductions
