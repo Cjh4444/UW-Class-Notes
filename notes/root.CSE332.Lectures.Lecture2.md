@@ -8,7 +8,7 @@ created: 1736368457661
 # Topic: Algorithm Analysis 1
 
 ## Todo:
-- [ ] task1
+- no new tasks
 
 ## Notes:
 ### What do we care about?
