@@ -1,6 +1,6 @@
 ---
 id: z81sj8lhtl8wfyme187e31e
-title: Standard_class_notes
+title: Textbook_notes
 desc: ''
 updated: 1736364788069
 created: 1736285353589
