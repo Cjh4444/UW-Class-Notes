@@ -2,9 +2,11 @@
 id: z81sj8lhtl8wfyme187e31e
 title: Standard_class_notes
 desc: ''
-updated: 1736298310116
+updated: 1736364788069
 created: 1736285353589
 ---
+# Chapter Topic: {INSERT TOPIC HERE}
+
 ### File x.0: TOPIC
 - note
 ### File x.1: TOPIC
