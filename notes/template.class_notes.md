@@ -1,9 +1,9 @@
 ---
-id: z81sj8lhtl8wfyme187e31e
-title: Standard_class_notes
+id: 9cmrlvnbmwr2ao3emkfh3fj
+title: Class_notes
 desc: ''
-updated: 1736285444567
-created: 1736285353589
+updated: 1736368414244
+created: 1736368414244
 ---
 # Topic: {INSERT TOPIC HERE}
 
