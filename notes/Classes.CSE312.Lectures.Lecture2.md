@@ -34,5 +34,5 @@ created: 1736371992132
         - "n combination k"
     - Notations
         - ${}_{n}C_{k}$
-        - $\begin{pmatrix} n \\ k \end{matrix}$
+        - $\begin{pmatrix} n \\ k \end{pmatrix}$
         - $C(n,k)$
