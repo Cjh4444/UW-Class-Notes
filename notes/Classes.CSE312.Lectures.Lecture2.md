@@ -8,7 +8,7 @@ created: 1736371992132
 # Topic: More Counting
 
 ## Todo:
-- [ ] HW0 - DUE Wednesday, Jan 15
+- [ ] HW1 - DUE Wednesday, Jan 15
 
 ## Notes:
 - Factorial definition:
