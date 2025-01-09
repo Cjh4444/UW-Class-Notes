@@ -12,7 +12,7 @@ No tasks
 
 ## Notes:
 ### TA Intro
-- TA is doing lingustic computational applications, ask about it at some point
+- TA is doing linguistic computational applications, ask about it at some point
 ### Syllabus
 - Any contact should have "Ling 200 AD" in the subject
 - Section content will be new content rather than just review
