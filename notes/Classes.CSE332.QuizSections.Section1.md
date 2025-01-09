@@ -5,16 +5,14 @@ desc: ''
 updated: 1736455006574
 created: 1736455006574
 ---
-# Topic: {INSERT TOPIC HERE}
+# Topic: ADTs and Generics
 
 ## Todo:
-- [ ] task1
-- [ ] task2
-- [ ] task3
+none
 
 ## Notes:
 ### ADTs
-- generic representation of something, with standard functions, but without the underlying structure specified
+- generic representation of something, with standard functions, but without the under
 - Data Structure
     - Specific organization of data used for implementing an ADT
 - Examples
