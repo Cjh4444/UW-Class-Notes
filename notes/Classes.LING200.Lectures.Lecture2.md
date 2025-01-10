@@ -2,15 +2,13 @@
 id: vganjrst4cijrmewquboesh
 title: Lecture2
 desc: ''
-updated: 1736375558105
+updated: 1736489438447
 created: 1736375558105
 ---
 # Topic: 
 
 ## Todo:
-- [ ] task1
-- [ ] task2
-- [ ] task3
+no tasks
 
 ## Notes:
 ### What is Linguistics?
