@@ -2,7 +2,7 @@
 id: 5xy7dh8osgyad4s9ch3gw23
 title: Lecture2
 desc: ''
-updated: 1736368457661
+updated: 1736542288006
 created: 1736368457661
 ---
 # Topic: Algorithm Analysis 1
@@ -35,5 +35,3 @@ created: 1736368457661
     - Worst Case: max num of steps
     - Average Case: DATASET DEPENDENT, avg num of steps on random inputs
     - Amortized Case: total num of steps on sequential inputs / num inputs
-### Asymptotic Analysis
-### Big-Oh Definition
