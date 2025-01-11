@@ -2,10 +2,10 @@
 id: vganjrst4cijrmewquboesh
 title: Lecture2
 desc: ''
-updated: 1736489438447
+updated: 1736548568959
 created: 1736375558105
 ---
-# Topic: 
+# Topic: What is Language?
 
 ## Todo:
 no tasks
@@ -43,3 +43,5 @@ no tasks
 - It's fun to understand the human mind
 - It's very relevant to daily life
 - It can help you learn/use languages better
+
+{INSERT TOPIC HERE}
