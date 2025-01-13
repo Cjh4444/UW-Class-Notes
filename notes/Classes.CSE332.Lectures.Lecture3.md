@@ -2,7 +2,7 @@
 id: qafngdhrgvw4747or917vs5
 title: Lecture3
 desc: ''
-updated: 1736544016906
+updated: 1736800750950
 created: 1736541236637
 ---
 # Topic: Lecture 2 Continuation
@@ -32,7 +32,7 @@ more notes that i need to rewatch lecture for since i spaced out
 - Big Oh
     - Upper bound: O(f(n)) is set of functions less than or equal to f(n)
 - Big Omega
-    - Lower bound: O(f(n)) is set of functions greater than or equal to f(n)
+    - Lower bound: Ω(f(n)) is set of functions greater than or equal to f(n)
 - Big Theta
-    - Tight bound: O(f(n)) is set of functions equal to f(n)
-    - Intersections of 
+    - Tight bound: Θ(f(n)) is set of functions equal to f(n)
+    - Intersection of Big Oh and Big Omega
