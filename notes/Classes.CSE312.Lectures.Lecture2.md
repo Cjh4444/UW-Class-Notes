@@ -2,7 +2,7 @@
 id: lr2zs38d5g954ylsoij0q5j
 title: Lecture2
 desc: ''
-updated: 1736371992132
+updated: 1736737189249
 created: 1736371992132
 ---
 # Topic: More Counting
@@ -12,11 +12,11 @@ created: 1736371992132
 
 ## Notes:
 - Factorial definition:
-    - $n! = n \cdot (n - 1) \cdot (n - 1) \cdot \cdot \cdot 1$ 
+    - $n! = n \cdot (n - 1) \cdot (n - 2) \cdot \cdot \cdot 1$ 
     - n is a natural number
 - k-permutation definition
     - Number of k-element sequences of distinct symbols form a universe of n symbols
-    - $P(n,k) = n \cdot (n - 1) \cdot (n - 1) \cdot \cdot \cdot (n - k + 1) = \frac{n!}{(n-k)!}$
+    - $P(n,k) = n \cdot (n - 1) \cdot (n - 2) \cdot \cdot \cdot (n - k + 1) = \frac{n!}{(n-k)!}$
     - Pronunciations:
         - "P n k"
         - "n permute k"
