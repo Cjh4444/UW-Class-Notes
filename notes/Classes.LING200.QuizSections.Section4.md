@@ -2,7 +2,7 @@
 id: ae7b4c1fohwaend5pfhyhtv
 title: Section4
 desc: ''
-updated: 1737064677273
+updated: 1737669048626
 created: 1737063176964
 ---
 # Topic: {INSERT TOPIC HERE}
@@ -11,7 +11,7 @@ created: 1737063176964
 no new tasks
 
 ## Notes:
-### AAAA 
+### AAAA
 Some stuff before this, look back at slides
 ###
 ![](IPA_chart.png)
